@@ -1,1 +1,20 @@
 *.zip
+
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.lol
+*.lot
+*.lof
+*.bcf
+*.fls
+*.run.xml
+*.xmpi
+*.icm
+*.fdb_latexmk
+*.synctex.gz
+*.snm
+*.vrb
+*.nav
+*.out
